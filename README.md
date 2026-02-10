@@ -46,7 +46,3 @@ Counts occurrences and prints the results.
 Calendar analysis
 
 HR / Leave planning systems
-
-Learning Python datetime
-
-Academic assignments# Weekend-Day-Counter
